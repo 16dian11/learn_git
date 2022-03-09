@@ -1,2 +1,3 @@
 import aa
 
+print('aaa')
